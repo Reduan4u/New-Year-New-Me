@@ -1,0 +1,74 @@
+/* Common uses */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 1600px;
+    height: 808px;
+    background-image: url('/new-year-new-me-main/images/banner/banner1.png');
+    text-align: justify;
+}
+
+.header-info {
+    background-color: aqua;
+    width: 525px;
+    text-align: right;
+    padding: 10px;
+    justify-content: ;
+}
+
+.btn {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    border: 0;
+}
+
+.header-title {
+    color: #151414;
+    font-size: 65px;
+
+
+}
+
+.header-description {
+    width: 494px;
+    font-size: 16px;
+    color: #444343;
+
+
+
+
+}
+
+.img {
+    padding-left: 206px;
+}
+
+.left-part {
+    display: flex;
+    align-items: center;
+}
+
+.details-part {
+    padding-left: 100px;
+}
+
+.details-title {
+    width: 288px;
+
+    color: #151414;
+    font-size: 40px;
+}
+
+.details-paragrap {
+    width: 416px;
+    font-size: 16px;
+    color: #444343;
+
+}
+
+.details-list {}
